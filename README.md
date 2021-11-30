@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./WELCOME.png" width="100%" alt="Kevin Almada" />
+  <img src="./WELCOME - 1280 × 720 px - Opera 30_11_2021 19_28_36.png" width="100%" alt="Kevin Almada" />
 </h1>
 # Hi ,my name is Kevin and i'm a web developer from argentina:
 

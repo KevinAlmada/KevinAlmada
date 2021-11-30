@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img src="./WELCOME.png" width="100%" alt="Kevin Almada" />
+</h1>
 # Hi ,my name is Kevin and i'm a web developer from argentina:
 
 - :computer: I studied full stack web developer at Digital House
